@@ -7,3 +7,4 @@ Calculatrice :
 - Pas d'html, tout se fait en js et css
 - Import et exports
 - Commits et pushes reguliers
+
